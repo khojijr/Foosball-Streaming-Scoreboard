@@ -4,8 +4,8 @@ Scoreboard GUI to sync with Streamlabs OBS streaming software.
 ----
 ## Configs
 
-#####Games
+###Games
 Plug in specified games separated by lines.
 
-#####Rounds
+###Rounds
 Plug in specified rounds separated by lines.
