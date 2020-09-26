@@ -1,4 +1,4 @@
-# FoosballStreamingScoreboard
+# Foosball Streaming Scoreboard
 Scoreboard GUI to sync with Streamlabs OBS streaming software.
 
 ----
